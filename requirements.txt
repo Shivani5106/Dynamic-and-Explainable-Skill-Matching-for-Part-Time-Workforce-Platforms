@@ -1,0 +1,7 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+flask
+# optional: sentence-transformers   (to replace the skill-graph similarity with SBERT, see embed.py)
